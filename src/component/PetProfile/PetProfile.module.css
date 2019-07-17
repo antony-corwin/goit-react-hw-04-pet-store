@@ -1,0 +1,27 @@
+.button {
+  background: #444444;
+  color: #fff;
+  font-size: 24px;
+  line-height: 24px;
+  border-style: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.about {
+  font-size: 24px;
+}
+
+.container {
+  display: flex;
+}
+
+.stats {
+  padding-left: 50px;
+  font-size: 24px;
+}
+
+.description {
+  width: 70%;
+  font-size: 18px;
+}

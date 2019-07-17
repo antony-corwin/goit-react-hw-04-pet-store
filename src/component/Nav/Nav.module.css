@@ -1,0 +1,27 @@
+.navList {
+  display: flex;
+  list-style: none;
+  justify-content: flex-start;
+  padding: 20px 15px;
+  background-color: #444444;
+  border-radius: 5px;
+}
+
+.navItem {
+  font-family: sans-serif;
+  font-size: 24px;
+  color: #fff;
+}
+
+.navItem:not(:last-child) {
+  margin-right: 40px;
+}
+
+.navLink {
+  color: #fff;
+  text-decoration: none;
+}
+
+.activeLink {
+  color: #fe6348;
+}

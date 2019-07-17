@@ -1,0 +1,18 @@
+.ul {
+  margin: 20px 80px;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.li {
+  margin: 15px;
+  border-color: #444444;
+  border-style: solid;
+  border-radius: 5px;
+  color: #fff;
+  width: 30%;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
